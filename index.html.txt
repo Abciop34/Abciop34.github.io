@@ -2,7 +2,6 @@
 <html>
 <meta name=viewport content="width=device-width,initial-scale=1,minimum-scale=0,maximum-scale=1">
 <head>
-<Link Rel="ICON NAME" href="‪Icon.jpg"/>
 		<meta charset="utf-8" />
 		<title>2211369</title>
 		<link rel="stylesheet" type="text/css" href="css/reset.css"/>
